@@ -1,7 +1,8 @@
 # Reinforcement Learning Snake Game AI
 
 This project is a demonstration of how an AI model can be trained using reinforcement learning to play the classic game of Snake and achieve the highest possible score.
-Technologies Used
+
+## Technologies Used
 
 The following technologies were used to develop this project:
 
@@ -17,7 +18,7 @@ To run this project, you will need the following:
     TensorFlow 2.4.1
     Keras 2.4.3
 
-
+## How to Use
 To start the game, run the following command in your terminal:
 ```bash
 python snakeai.py
